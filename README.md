@@ -48,20 +48,6 @@
 
 <br/>
 <hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-    
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/javilopercoder/javilopercoder/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: ligth)" srcset="https://raw.githubusercontent.com/javilopercoder/javilopercoder/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/javilopercoder/javilopercoder/output/github-contribution-grid-snake.svg">
-</picture>
-  
-  <br/><br/><br/>
-</div>
-
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
