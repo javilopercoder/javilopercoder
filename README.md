@@ -15,7 +15,7 @@
  
  🌱 I’m currently learning **Back-End**, **Front-End** and **Database**.
 
-💬 Ask me about **Java, Python, SQL...** or anything
+💬 Ask me about **Java, Python, SQL, AWS...** or anything
  
   💬 How to reach me javilopercoder@gmail.com.
 
