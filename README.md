@@ -1,28 +1,24 @@
-
-
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Javier+López;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=¡Hola!+👋;+Soy+Javier+López;" />
 </h1>
 
-<h3 align="center">A passionate developer from Madrid, Spain</h3>
-
+<h3 align="center">Un desarrollador apasionado de Madrid, España</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on earning an Advanced Vocational Training in Multiplataform Application Development.
+ 🔭 Actualmente estoy cursando un Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Multiplataforma.
  
- 🌱 I’m currently learning **Back-End**, **Front-End** and **Database**.
+ 🌱 Estoy aprendiendo **Back-End**, **Front-End**, **Bases de Datos**, **Cloud**, etc.
 
-💬 Ask me about **Java, Python, SQL, AWS...** or anything
+💬 Pregúntame sobre **Java, Python, SQL, AWS...** o cualquier cosa.
  
-  💬 How to reach me javilopercoder@gmail.com.
+ 💬 Cómo contactarme: javilopercoder@gmail.com.
 
-  <br/>
+ <br/>
 
- </div>
-
+</div>
 
 <div align="center"> 
    
@@ -39,7 +35,7 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Lenguajes - Frameworks - Herramientas ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,vscode,github,git" />
@@ -50,7 +46,7 @@
 <hr/>
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ Estadísticas ⚡</h2>
 <br>
 
 <div align=center>
@@ -62,6 +58,5 @@
 </div>
 
 <br/>
-
 
 [![](https://visitcount.itsvg.in/api?id=javilopercoder&icon=2&color=12)](https://visitcount.itsvg.in)
