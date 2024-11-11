@@ -8,13 +8,21 @@
 
 <div align="center">
  
- 🔭 Actualmente estoy cursando un Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Multiplataforma.
+ 🔍 Mi vida profesional no empezó como desarrolador sino como detective privado 🕵🏻‍♂️.
  
- 🌱 Estoy aprendiendo **Back-End**, **Front-End**, **Bases de Datos**, **Cloud**, etc.
+ 🏡 Posteriormente me metí en el mundo de los bienes raíces 🏠.
+ 
+ 📚 Entre una cosa y otra, me di cuenta de la importancia de los datos 👨🏻‍💻 y lo que se podía hacer con ellos. Así que me lancé a aprender Python 🐍 y Machine Learning 🧠 en Saturdays.AI
 
-💬 Pregúntame sobre **Java, Python, SQL, AWS...** o cualquier cosa.
+ 🐥 Con el proyecto de RentwAIs logré el premio al mejor uso de datos 🗄. Así que decidí dar el giro profesional en mi vida.
  
- 💬 Cómo contactarme: javilopercoder@gmail.com.
+ 💻 Me apunté al Grado Superior en Desarrollo de Aplicaciones Multiplataforma. Y tras terminar 1º hice la piscina 🏊🏻‍♂️🛟 de 42 Madrid logrando entrar al campus.
+
+ 🔄 Además entré en el mundo cloud ☁ de AWS obteniendo los certificados Cloud Practitioner, Solutions Architect (en proceso 🔜) y Data Engineer (en proceso 🔜).
+
+ 
+ 
+ 💬 Pregúntame sobre **Java, Python, SQL, AWS...** o cualquier cosa.
 
  <br/>
 
@@ -60,7 +68,3 @@
 <br/>
 
 [![](https://visitcount.itsvg.in/api?id=javilopercoder&icon=2&color=12)](https://visitcount.itsvg.in)
-
-## ¡Mira cómo la serpiente 🐍 se come las contribuciones públicas!
- 
-![snake_gif](https://github.com/MeghnaS21/MeghnaS21/blob/output/github-snake-dark.svg)
