@@ -61,6 +61,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=javilopercoder&icon=2&color=12)](https://visitcount.itsvg.in)
 
-## ¡Mira cómo la serpiente 🐍 se come las contribuciones!
+## ¡Mira cómo la serpiente 🐍 se come las contribuciones públicas!
  
 ![snake_gif](https://github.com/MeghnaS21/MeghnaS21/blob/output/github-snake-dark.svg)
