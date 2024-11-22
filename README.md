@@ -1,6 +1,12 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=¡Hola!+👋;+Soy+Javier+López;" />
-</h1>
+¡Hola! ¡Soy Javier López!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1> 
+  
+<p align="center">
+  <a href="https://github.com/aadrii09/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Estudiante+de+Desarrollo;Software+Developer;Data+Engineer;%20AI%20|%20ML%20;Creativo;Siempre%20aprendiendo%20&center=true&width=380&height=45"></a>
+</p>
+
+<hr>
 
 ```
 Desarrollador de Madrid, España
@@ -13,7 +19,7 @@ Desarrollador de Madrid, España
  🔄 Me formo en AWS con certificaciones en Cloud Practitioner, Solutions Architect y Data Engineer ☁️  
  Y próximamente... 42 Madrid  
 
- 💬 Pregúntame sobre **Java, Python, SQL, AWS...**
+ 💬 Pregúntame sobre Java☕️, Python🐍, SQL🗄, AWS☁️...
  
 ```
 
