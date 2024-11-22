@@ -1,9 +1,10 @@
 <h1 align="center">
-¡Hola! ¡Soy Javier López!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1> 
-  
+  <img src="https://i.gifer.com/X5NZ.gif" width="80">
+  ¡Hola! ¡Soy Javier López!
+  <img src="https://i.gifer.com/6oa.gif" width="80"></h1> 
+
 <p align="center">
-  <a href="https://github.com/aadrii09/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Estudiante+de+Desarrollo;Software+Developer;Data+Engineer;%20AI%20|%20ML%20;Creativo;Siempre%20aprendiendo%20&center=true&width=380&height=45"></a>
+  <a href="https://github.com/javilopercoder"><img src="https://readme-typing-svg.herokuapp.com?lines=Estudiante+de+Desarrollo;Software+Developer;Data+Engineer;%20AI%20|%20ML%20;Creativo;Siempre%20aprendiendo%20&center=true&width=380&height=45"></a>
 </p>
 
 <hr>
