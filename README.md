@@ -9,18 +9,34 @@
 <hr>
 
 ```
-Desarrollador de Madrid, España
- 
- 🔍 Empecé como detective privado 🕵🏻‍♂️  
- 🏡 Pasé a bienes raíces 🏠  
- 📚 Descubrí el valor de los datos y aprendí Python y Machine Learning en Saturdays.AI 🧠  
- 🐥 Con RentwAIs gané el premio al mejor uso de datos 🐍  
- 💻 Actualmente, estudio Desarrollo de Aplicaciones Multiplataforma 👨🏻‍💻  
- 🔄 Me formo en AWS con certificaciones en Cloud Practitioner, Solutions Architect y Data Engineer ☁️  
- Y próximamente... 42 Madrid  
+class Javier:
+    def __init__(self):
+        self.ciudad = "Madrid, España"
+        self.historia = [
+            "🔍 Empecé como detective privado 🕵🏻‍♂️",
+            "🏡 Pasé a bienes raíces 🏠",
+            "📚 Descubrí el valor de los datos y aprendí Python y Machine Learning en Saturdays.AI 🧠",
+            "🐥 Con RentwAIs gané el premio al mejor uso de datos 🐍",
+            "💻 Realizando Desarrollo de Aplicaciones Multiplataforma 👨🏻‍💻",
+            "🔄 Formaciones en AWS: Cloud Practitioner, Solutions Architect y Data Engineer ☁️",
+            "🚀 Y próximamente... 42 Madrid"
+        ]
+        self.skills = ["Java☕️", "Python🐍", "SQL🗄", "AWS☁️", "etc."]
 
- 💬 Pregúntame sobre Java☕️, Python🐍, SQL🗄, AWS☁️...
- 
+    def presentate(self):
+        print("💬 Pregúntame sobre: ", ", ".join(self.skills))
+
+
+# Instancia de Javier
+javier = Javier()
+
+# Mostrar información sobre Javier
+print(f"📍 Ciudad: {javier.ciudad}")
+print("\n📜 Mi historia:")
+for etapa in javier.historia:
+    print(f"- {etapa}")
+print()
+javier.presentate()
 ```
 
 
