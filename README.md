@@ -2,22 +2,21 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=¡Hola!+👋;+Soy+Javier+López;" />
 </h1>
 
-<h3 align="center">Desarrollador de Madrid, España</h3>
-
-<div align="center">
+```
+Desarrollador de Madrid, España
  
  🔍 Empecé como detective privado 🕵🏻‍♂️  
  🏡 Pasé a bienes raíces 🏠  
  📚 Descubrí el valor de los datos y aprendí Python y Machine Learning en Saturdays.AI 🧠  
- 🐥 Con <a href="https://github.com/javilopercoder/model-RentwAIs" target="_blank">RentwAIs</a> gané el premio al mejor uso de datos 🐍  
+ 🐥 Con RentwAIs gané el premio al mejor uso de datos 🐍  
  💻 Actualmente, estudio Desarrollo de Aplicaciones Multiplataforma 👨🏻‍💻  
  🔄 Me formo en AWS con certificaciones en Cloud Practitioner, Solutions Architect y Data Engineer ☁️  
  Y próximamente... 42 Madrid  
 
  💬 Pregúntame sobre **Java, Python, SQL, AWS...**
- <br/>
+ 
+```
 
-</div>
 
 <h2 align="center">⚒️ Lenguajes - Frameworks - Herramientas ⚒️</h2>
 <div align="center">
