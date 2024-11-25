@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://i.gifer.com/X5NZ.gif" width="80">
-  ¡Hola! ¡Soy Javier López!
+  ¡Hola, soy Javier López!
   <img src="https://i.gifer.com/6oa.gif" width="80"></h1> 
 
 <p align="center">
