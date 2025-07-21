@@ -170,7 +170,7 @@ Verificación de datos de anuncios inmobiliarios. Consulta si es fraude o no en 
 
 <p align="center">
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=javilopercoder&show_icons=true&theme=react&border_radius=10&hide_border=true" alt="GitHub Stats" />
-  <img width="400" src="https://streak-stats.demolab.com?user=javilopercoder&theme=react&hide_border=true&border_radius=10" alt="GitHub Streak"/>
+  <img width="425" src="https://streak-stats.demolab.com?user=javilopercoder&theme=react&hide_border=true&border_radius=10" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
