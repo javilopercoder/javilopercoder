@@ -173,7 +173,7 @@ Verificación de datos de anuncios inmobiliarios. Consulta si es fraude o no en 
 </p>
 
 <p align="center">
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=javilopercoder&theme=react&hide_border=true&border_radius=10" alt="GitHub Streak" />
+  <img width="400" src="https://streak-stats.demolab.com/?user=javilopercoder&theme=react&hide_border=true&border_radius=10" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -215,10 +215,6 @@ Verificación de datos de anuncios inmobiliarios. Consulta si es fraude o no en 
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</p>
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=javilopercoder.javilopercoder&left_color=FF6B00&right_color=2D3748" alt="visitors"/>
 </p>
 
 <p align="center">
